@@ -1,4 +1,4 @@
-module github.com/CVirani-jha/microservices-shared
+module github.com/CVirani-celsior/microservices-shared
 
 go 1.21
 
